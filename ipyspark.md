@@ -18,7 +18,7 @@ Change permission
 ```
 chmod 711 ipyspark.sh
 ```
-Open bash_profile
+Open `.zshrc`, `.bashrc` or`.bash_profile`
 
 ```
 export PATH=$PATH:/path/to/.scripts
