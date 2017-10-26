@@ -1,5 +1,5 @@
 # Setup Manual
-A setup manual for personal use in case of format or new computer
+A setup manual for personal use in case of aore-formatting or getting a new computer
 ### Contents
 + Installations
 + Commands for homebrew, pyenv and pip
