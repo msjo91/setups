@@ -5,4 +5,5 @@ A setup manual for personal use in case of aore-formatting or getting a new comp
 + alias and scripts
 + Commands for homebrew, pyenv and pip
 + ipython shell script for pyspark
-+ matplotlib in pyenv 
++ matplotlib in pyenv
++ Jupyter Notebook theme 
