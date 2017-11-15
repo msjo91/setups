@@ -48,14 +48,6 @@ Name & logo visibility | -N | --
 Reset default theme | -r | --
 Force default font | -dfonts | --
 
-### Source-code-pro
-+ Install source-code-pro
-
-```
-brew tap caskroom/fonts
-brew install font-source-code-pro
-```
-
 + Jupyter theme example
 
 ```
