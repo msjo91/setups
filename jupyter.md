@@ -1,8 +1,14 @@
-# Jupyter Notebook Theme
+# Jupyter Notebook
 + Install Jupyter Notebook
 
 ```
 pip install jupyter
+```
+
++ Save .ipynb as .py
+
+```
+!jupyter nbconvert --to script [filename].ipynb
 ```
 
 + Install Jupyter theme
