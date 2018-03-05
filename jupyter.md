@@ -11,6 +11,21 @@ pip install jupyter
 !jupyter nbconvert --to script [filename].ipynb
 ```
 
++ Set password
+
+```
+jupyter notebook password
+```
+
++ Putty SSH link
+
+```
+# While Jupyter server is running
+# At local Windows command
+# This will allow for a client to access Jupyter via web browser.
+/path/to/putty.exe -ssh -L [client port]:localhost:[server port]
+```
+
 + Install Jupyter theme
 
 ```
